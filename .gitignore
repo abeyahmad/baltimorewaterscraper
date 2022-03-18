@@ -1,0 +1,6 @@
+node_modules/
+archive/bill_screenshots
+config/bank.json
+config/knex copy.json
+config/bank copy.json
+config/knex.json

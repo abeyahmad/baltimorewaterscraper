@@ -1,0 +1,1 @@
+select distinct mailing_address,count(service_address) AS sa from water_account group by mailing_address order by sa desc;

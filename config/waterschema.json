@@ -1,0 +1,13 @@
+{
+    "account_number":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblAccountNumber",
+    "service_address":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblServiceAddress",
+    "current_read_date":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblLastReadDate",
+    "current_bill_date":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblBillDate",
+    "penalty_date":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblPenaltyDate",
+    "current_bill_amount":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblLastBillAmount",
+    "previous_balance":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblPreviousBalance",
+    "current_balance":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblCurrentBalance",
+    "previous_read_date":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblPreviousReadDate",
+    "last_pay_date":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblLastPayDate",
+    "last_pay_amount":"ctl00_ctl00_rootMasterContent_LocalContentPlaceHolder_lblLastPayAmount"
+}
